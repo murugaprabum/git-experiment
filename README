@@ -1,1 +1,6 @@
 A test file to test git
+class HelloWorld{
+	public:
+		void sayHello();
+};
+sayHello();
